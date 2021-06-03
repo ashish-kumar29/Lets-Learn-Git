@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     int a=5,b=3;
     int c=a*b;
-    cout<<"Answer is"<<c;
+    cout<<"Answer of multiplication is "<<c;
     return 0;
 }
